@@ -1,0 +1,6 @@
+@TravelTime.Api_HostAddress = http://localhost:5193
+
+GET {{TravelTime.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
